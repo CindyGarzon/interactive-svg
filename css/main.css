@@ -14,6 +14,10 @@
   transform: translateY(-4px);
 }
 
+#bear:hover #left-ear {
+  transform: translateY(-4px);
+}
+
 #left-eye {
   animation: slide 3s infinite;
 }
